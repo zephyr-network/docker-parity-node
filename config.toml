@@ -5,7 +5,7 @@ chain = "init.json"
 #bootnodes = []
 
 [account]
-password = [".local/share/io.parity.ethereum/password"]
+password = [".local/share/io.parity.ethereum/password.pwd"]
 
 [mining]
 #engine_signer = ""

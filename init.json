@@ -7,7 +7,7 @@
                 "validators" : {
                     "multi": {
                         "0": {
-                            "list": [""]
+                            "list": ["0x3f7e25ae468ab8769d4c4da92e1bb3f9e7ed7677"]
                         }
                     }
                 }

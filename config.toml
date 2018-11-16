@@ -4,6 +4,12 @@ chain = "init.json"
 [network]
 #bootnodes = []
 
+[rpc]
+disable = true
+
+[websockets]
+disable = true
+
 [account]
 #password = ["/home/parity/.local/share/io.parity.ethereum/password.pwd"]
 

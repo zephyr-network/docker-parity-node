@@ -2,7 +2,12 @@
 chain = "init.json"
 
 [network]
-#bootnodes = []
+bootnodes = [
+  "enode://100d819c2fdf42f06b6decdb8cba84a1297d8564c58c3c23d337f5069cda57228ce2a0ff8d14e1194d44a364ff71631bfbf498f6472fd111cfd4f6c13378b264@52.29.241.155:30303",
+  "enode://3b3c14d295b83bad8e82a65f95aa0ba5526b2bace115ae562f8a2c15de2f43eff650a71e1ccaff87b683d55c7bdbd93a7ac979c74de52563e34be2ce84ecdd4b@54.161.190.106:30303",
+  "enode://98e8060ca27698fa0d9b4853244592e703da8d7e0a40be8b80027ec1385781c7dde3ddc2f68f7dae8ab115e3bcc063aee77dcfe8daef6e5e904bfcb625828aaf@18.191.103.185:30303",
+  "enode://de1bab21ba51802a3b9c0a7276f64de10b16e6fda796dc9eaab752bba74a45fcee2386fb62cc5005bf5bbb1d426993c7a5a267410539744834b226cc4edec210@13.52.37.196:30303"
+]
 
 [rpc]
 disable = true
@@ -11,7 +16,7 @@ disable = true
 disable = true
 
 [account]
-#password = ["/home/parity/.local/share/io.parity.ethereum/password.pwd"]
+#password = 
 
 [mining]
 #engine_signer = ""

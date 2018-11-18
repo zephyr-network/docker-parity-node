@@ -3,7 +3,7 @@
     "engine": {
         "authorityRound": {
             "params": {
-                "stepDuration": "1",
+                "stepDuration": "5",
                 "validators" : {
                     "multi": {
                         "0": {
@@ -23,7 +23,7 @@
         "gasLimitBoundDivisor": "0x400",
         "maximumExtraDataSize": "0x20",
         "minGasLimit": "0x7A1200",
-        "networkID" : "0x1313",
+        "networkID" : "0x1328",
         "eip155Transition": 0,
         "validateChainIdTransition": 0,
         "eip140Transition": 0,

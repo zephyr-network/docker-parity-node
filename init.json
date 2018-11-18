@@ -3,14 +3,15 @@
     "engine": {
         "authorityRound": {
             "params": {
-                "stepDuration": "5",
+                "stepDuration": "1",
                 "validators" : {
                     "multi": {
                         "0": {
                             "list": [
                                 "0x3f7e25ae468ab8769d4c4da92e1bb3f9e7ed7677",
                                 "0xd68bce2a70562557425c606042b5b2d1aed7eaa1",
-                                "0xe0b5a30ecba39999f5def28b100b6e88549637b5"
+                                "0xe0b5a30ecba39999f5def28b100b6e88549637b5",
+                                "0xb3309392ceafda20dd89ee55fb18a2ff4eefc7cb"
                             ]
                         }
                     }
@@ -41,9 +42,7 @@
         "seal": {
             "authorityRound": {
                 "step": "0x0",
-                "signature": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-                "blockRewardContractAddress": "0x0000000000000000000000000000000000000013",
-                "blockRewardContractTransition": "0x13"
+                "signature": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"               
             }
         },
         "difficulty": "0x20000",

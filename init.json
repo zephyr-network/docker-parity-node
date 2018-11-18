@@ -13,6 +13,15 @@
                                 "0xe0b5a30ecba39999f5def28b100b6e88549637b5",
                                 "0xb3309392ceafda20dd89ee55fb18a2ff4eefc7cb"
                             ]
+                        },
+                        "1000": {
+                            "list": [
+                                "0x3f7e25ae468ab8769d4c4da92e1bb3f9e7ed7677",
+                                "0xd68bce2a70562557425c606042b5b2d1aed7eaa1",
+                                "0xe0b5a30ecba39999f5def28b100b6e88549637b5",
+                                "0xb3309392ceafda20dd89ee55fb18a2ff4eefc7cb",
+                                "0x54c28a05d4db53a826c7a149f8cd22c41a13a15d"
+                            ]
                         }
                     }
                 }

@@ -13,15 +13,6 @@ bootnodes = [
   "enode://0fd3640f6f8d7c63ea75bf030c4f9b3a3016dd306e9d220316b9dca7a9796c46b18a63672971c14626045515fbf8a5eb62c3bbb5932448f76d0c4cfd4ac0d7f2@35.177.90.38:30303"
 ]
 
-[rpc]
-disable = true
-
-[websockets]
-disable = true
-
-[account]
-#password = 
-
 [mining]
 #engine_signer = ""
 reseal_on_txs = "none"

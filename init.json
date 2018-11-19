@@ -14,13 +14,16 @@
                                 "0xb3309392ceafda20dd89ee55fb18a2ff4eefc7cb"
                             ]
                         },
-                        "1000": {
+                        "7300": {
                             "list": [
                                 "0x3f7e25ae468ab8769d4c4da92e1bb3f9e7ed7677",
                                 "0xd68bce2a70562557425c606042b5b2d1aed7eaa1",
                                 "0xe0b5a30ecba39999f5def28b100b6e88549637b5",
                                 "0xb3309392ceafda20dd89ee55fb18a2ff4eefc7cb",
-                                "0x54c28a05d4db53a826c7a149f8cd22c41a13a15d"
+                                "0x54c28a05d4db53a826c7a149f8cd22c41a13a15d",
+                                "0x5430aa97ce8e33e638b5440fb736362a0d09cf39",
+                                "0x3618adbc137d58ef80097e0268f54b7783f91d23",
+                                "0xdcbfa6ea65af5e1669842304bb954e30e2eb7acb"
                             ]
                         }
                     }

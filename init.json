@@ -4,9 +4,6 @@
         "authorityRound": {
             "params": {
                 "stepDuration": "5",
-                "blockReward": {
-                    "0": "0x4563918244F40000"
-                },
                 "validators" : {
                     "multi": {
                         "0": {
